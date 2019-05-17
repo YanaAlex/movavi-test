@@ -1,2 +1,3 @@
-# movavi-test
- shopping cart with product, local storage, alert
+#Тестовое задание от компании
+содержит корзину, перечень товаров, local storage (при обновлении страницы, корзина не сбрасывается), alert при нажатии на кнопку "оформить покупку" с подтверждением заказа. Адаптивности нет.
+Demo: https://github.com/YanaAlex/test.git

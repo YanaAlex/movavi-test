@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0;
+}
+
+article {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+article>div {
+    flex: 1;
+}
+
+p, h1 {
+    margin: 0;
+}
+
+.wrap {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
